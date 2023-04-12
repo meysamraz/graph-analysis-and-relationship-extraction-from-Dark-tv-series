@@ -1,6 +1,7 @@
 # Graph Analysis and Relationship Extraction of Dark Tv Series
 If you have watched the Dark series produced by Netflix, you know that understanding this series and the relationship between the characters can be a bit challenging :D . In this project, I used biographies of serial characters and NLP and Graph Analysis to determine the relationship between serial characters and their importance.
-![alt Text](https://github.com/meysamraz/graphing-and-relationship-extraction-of-Dark-tv-series/blob/master/src/graph_chars.gif)![alt Text](https://github.com/meysamraz/graphing-and-relationship-extraction-of-Dark-tv-series/blob/master/src/comm_chars.gif)
+![alt Text](https://github.com/meysamraz/graphing-and-relationship-extraction-of-Dark-tv-series/blob/master/src/graph_chars.gif)
+![alt Text](https://github.com/meysamraz/graphing-and-relationship-extraction-of-Dark-tv-series/blob/master/src/comm_chars.gif)
 
 ## Project Overview : 
 ### 1- Scraping characters biography 
@@ -15,7 +16,7 @@ If you have watched the Dark series produced by Netflix, you know that understan
 - ### 🟡 Moderate Important
 - ### 🟢 Secondary characters
 - ### 🔵 NPCs
- <img src = "src/Screenshot%20(1621).png" width ="500" />
+ <img src = "src/Screenshot%20(1621).png" width ="550" />
 
 
 ### 6- Who Are The Top 10 Most Important Charecters in Tv Show
@@ -28,4 +29,7 @@ If you have watched the Dark series produced by Netflix, you know that understan
 
 ### 8- Who Are The Top 10 Communicator in Dark
  <img src = "src/plt4.png" width ="500" />
+ 
+### 0- Detecting Communities Between the Characters
+ <img src = "src/Screenshot%20(1623).png" width ="550" />
 
