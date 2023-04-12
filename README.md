@@ -15,17 +15,17 @@ If you have watched the Dark series produced by Netflix, you know that understan
 - ### 🟡 Moderate Important
 - ### 🟢 Secondary characters
 - ### 🔵 NPCs
- <img src = "src/Screenshot%20(1621).png" width ="250" />
+ <img src = "src/Screenshot%20(1621).png" width ="500" />
 
 
 ### 6- Who Are The Top 10 Most Important Charecters in Tv Show
- <img src = "src/plt1.png" width ="250" />
+ <img src = "src/plt1.png" width ="500" />
 
 
 ### 7- Who Are The Top Top 10 Intermediarie Charecters in Dark
- <img src = "src/plt3.png" width ="250" />
+ <img src = "src/plt3.png" width ="500" />
 
 
 ### 8- Who Are The Top 10 Communicator in Dark
- <img src = "src/plt4.png" width ="250" />
+ <img src = "src/plt4.png" width ="500" />
 
