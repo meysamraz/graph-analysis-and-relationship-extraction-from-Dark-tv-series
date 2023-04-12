@@ -33,3 +33,18 @@ If you have watched the Dark series produced by Netflix, you know that understan
 ### 0- Detecting Communities Between the Characters
  <img src = "src/Screenshot%20(1623).png" width ="550" />
 
+
+
+
+##  Libraries used in the project
+
+- [pandas](https://pandas.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
+- [pyvis](https://pypi.org/project/pyvis/)
+- [selenium](https://www.selenium.dev/)
+- [spacy](https://spacy.io/)
+- [community](https://pypi.org/project/community/)
+- [selenium](https://www.selenium.dev/)
+- [networkx](https://networkx.org/)
+
+
