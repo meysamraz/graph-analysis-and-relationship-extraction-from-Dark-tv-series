@@ -21,7 +21,7 @@ If you have watched the Dark series produced by Netflix,If you watched this seri
  <img src = "src/Screenshot%20(1621).png" width ="550" />
 
 
-### 6- Who Are The Top 10 Most Important Charecters in Tv Show
+### 6- Who Are The Top 10 Most Important Charecters in Dark
  <img src = "src/plt1.png" width ="500" />
 
 
