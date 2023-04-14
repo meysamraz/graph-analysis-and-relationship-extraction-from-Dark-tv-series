@@ -1,5 +1,5 @@
 # Graph Analysis and Relationship Extraction from Dark Tv Series
-If you have watched the Dark series produced by Netflix, you know that understanding this series and the relationship between the characters can be a bit challenging :D . In this project, I scraped biographies of serial characters and used NLP and Graph Analysis to determine the relationship between serial characters and their importance.
+If you have watched the Dark series produced by Netflix,If you watched this series you may know understanding this series and the relationship between the characters could be a bit challenging :D . In this project, I scraped characters biographies and used NLP and Graph Analysis to determine the relationship between serial characters and their importance.
 
 ![alt Text](https://github.com/meysamraz/graphing-and-relationship-extraction-of-Dark-tv-series/blob/master/src/graph_chars.gif)
 
