@@ -43,7 +43,6 @@ If you have watched the Dark series produced by Netflix,If you watched this seri
 - [pandas](https://pandas.pydata.org/)
 - [matplotlib](https://matplotlib.org/)
 - [pyvis](https://pypi.org/project/pyvis/)
-- [selenium](https://www.selenium.dev/)
 - [spacy](https://spacy.io/)
 - [community](https://pypi.org/project/community/)
 - [selenium](https://www.selenium.dev/)
